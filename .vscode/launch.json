@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (Redmi 8)",
+            "program": "lib/main.dart",
+            "deviceId": "13541ece0606",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

@@ -1,8 +1,9 @@
 # muawesom
 
-![Screenshot](Screenshot 2022-09-23 210945.jpg)
 
 ## Getting Started
+
+![Screenshot](Screenshot 2022-09-23 210945.jpg)
 
 This project is a starting point for a Flutter application.
 

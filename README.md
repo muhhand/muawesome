@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-![Screenshot](mu.JPG)
+![Screenshot](mu.jpg)
 
 This project is a starting point for a Flutter application.
 

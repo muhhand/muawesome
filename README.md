@@ -1,7 +1,7 @@
 # muawesom
 
 
-## Getting Started
+## Getting Started (This Application Is OutDated And i will update it soon with clean code)
 
 ![Screenshot](mu.jpg)
 
